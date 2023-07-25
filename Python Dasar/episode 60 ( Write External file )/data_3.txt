@@ -1,0 +1,2 @@
+otong 1
+baris 2
